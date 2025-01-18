@@ -144,11 +144,11 @@ if st.sidebar.button("Hitung"):
 st.markdown("""
 <div class="footer">
     Disusun Oleh:
-Brilyan Harwan 22.11.5177
-Siwan Yasarela Harefa 22.11.5179
-Arsenius Anggarestu 22.11.5180
-Tunggal Gati 22.11.5181
-Wildan Abrori Aziz 22.11.5186
+Brilyan Harwan 22.11.5177 |
+Siwan Yasarela Harefa 22.11.5179 |
+Arsenius Anggarestu 22.11.5180 |
+Tunggal Gati 22.11.5181 |
+Wildan Abrori Aziz 22.11.5186 
  | © 2025
 </div>
 """, unsafe_allow_html=True)
